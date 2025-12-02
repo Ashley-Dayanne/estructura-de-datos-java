@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="548560f4-3869-4ae7-b29c-36061457dea2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Estructura de datos/Unidad 2/POB/alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estructura de datos/Unidad 2/POB/universidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estructura de datos/Unidad 3/Lista/lista_simple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +46,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Joshua\IdeaProjects\com.mx.curso\Estructura de datos" />
       <recent name="C:\Users\Joshua\IdeaProjects\com.mx.curso\Estructura de datos\Unidad 2\Recursividad" />
       <recent name="C:\Users\Joshua\IdeaProjects\com.mx.curso\Estructura de datos\Unidad 2\Ordenamiento" />
     </key>
@@ -63,7 +67,7 @@
       <workItem from="1762437001191" duration="1037000" />
       <workItem from="1762522973237" duration="948000" />
       <workItem from="1763748055507" duration="9000" />
-      <workItem from="1764684658651" duration="165000" />
+      <workItem from="1764684658651" duration="1230000" />
     </task>
     <servers />
   </component>
@@ -79,10 +83,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1756819776407" />
-    <state x="398" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1756820217523">
+    <state x="398" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1764685162865">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="398" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1756820217523" />
+    <state x="398" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1764685162865" />
     <state x="357" y="72" key="FileChooserDialogImpl" timestamp="1762523311152">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
