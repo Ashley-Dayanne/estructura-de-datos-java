@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="548560f4-3869-4ae7-b29c-36061457dea2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Joshua.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estructura de datos/Arbol.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estructura de datos/Unidad 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estructura de datos/Unidad 4/Mapa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estructura de datos/Unidad 4/Usuario" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/Ashley/Tercero/Estructura de datos/Unidad 2/Ordenamiento/burbuja.java" />
@@ -43,9 +50,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Joshua\IdeaProjects\com.mx.curso\Estructura de datos\Unidad 4" />
+      <recent name="C:\Users\Joshua\IdeaProjects\com.mx.curso\Estructura de datos\Unidad 4\Mapa" />
+      <recent name="C:\Users\Joshua\IdeaProjects\com.mx.curso\Estructura de datos\Unidad 4\Usuario" />
       <recent name="C:\Users\Joshua\IdeaProjects\com.mx.curso\Estructura de datos" />
       <recent name="C:\Users\Joshua\IdeaProjects\com.mx.curso\Estructura de datos\Unidad 2\Recursividad" />
-      <recent name="C:\Users\Joshua\IdeaProjects\com.mx.curso\Estructura de datos\Unidad 2\Ordenamiento" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -65,7 +74,8 @@
       <workItem from="1762522973237" duration="948000" />
       <workItem from="1763748055507" duration="9000" />
       <workItem from="1764684658651" duration="1926000" />
-      <workItem from="1765547517677" duration="176000" />
+      <workItem from="1765547517677" duration="1208000" />
+      <workItem from="1767707480603" duration="2127000" />
     </task>
     <servers />
   </component>
@@ -73,21 +83,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="398" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1764685162865">
+    <state x="275" y="21" key="#Project_Structure" timestamp="1767709305516">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="398" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1764685162865" />
-    <state x="357" y="72" key="FileChooserDialogImpl" timestamp="1762523311152">
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1767709305516" />
+    <state x="398" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1767709339060">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="357" y="72" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1762523311152" />
-    <state x="384" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1765547650656">
+    <state x="398" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1767709339060" />
+    <state x="357" y="72" key="FileChooserDialogImpl" timestamp="1765547883522">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1765547650656" />
-    <state x="131" y="0" key="new project wizard" timestamp="1762523138511">
+    <state x="357" y="72" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1765547883522" />
+    <state x="384" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1767708996361">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1762523138511" />
+    <state x="384" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1767708996361" />
+    <state x="131" y="0" key="new project wizard" timestamp="1765548009005">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1765548009005" />
   </component>
 </project>

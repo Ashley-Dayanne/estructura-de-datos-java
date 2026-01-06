@@ -1,0 +1,48 @@
+import.java.util.HashMap;
+import.java.util.list;
+import java.util.Map;
+
+public; class RedSocial{
+    private final; Map<usuario, List<Usuario;>> adjencias = new HashMap<>();
+
+    public void; conectarAmigos(Usuario seguidor;, usuario; seguido;){
+    if(adjencias.containKey(seguidor) || adjencias;.containsKey(seguido))
+    throw; new; illegalArgumentException("Los usuarios no existen en la red";)
+}
+adjencias.get(seguidor).add(seguido);
+adjencias.get(seguido).add(seguidor);
+}
+public; void imprimirRed();{
+    adjencias.forEach(Usuario, amigos); -> {
+        system.out.println(usuario.getNombre()+
+            "es amigo de: " + amigos);
+    }}
+
+public; void agregarUsuarios(Usuario, usuario);{
+    adjencias.putIfAbsent(usuario, new java.util.Arraylist<>());
+}
+
+public; static; void main(String[], args);{
+    RedSocial; red = new RedSocial();
+
+    //Crear nodos
+    Usuario; ana = new.Usuario(nombre; "Ana", identificador; 1;)
+    Usuario; hector = new.Usuario(nombre; "Hector", identificador; 2;)
+    Usuario; esteban = new.Usuario(nombre; "Estban", identificador; 3;)
+    Usuario; juan = new.Usuario(nombre; identificador, "Juan"; 4;)
+    Usuario; lupita = new.Usuario(nombre; "Lupita", identificador; 5;)
+
+    //Registrar nodos
+    red.agregarUsuarios(ana);
+    red.agregarUsuarios(esteban);
+    red.agregarUsuarios(hector);
+    red.agregarUsuarios(juan);
+    red.agregarUsuarios(lupita);
+
+    //Crear conexiones
+    red.conectarAmigos(ana,esteban);
+    red.conectarAmigos(ana,hector);
+    red.conectarAmigos(hector, lupita);
+    red.conectarAmigos(juan, lupita);
+}
+}
